@@ -5,11 +5,9 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 body{
-    background: url(../projeto-site/pacote-d013/imagens/fundo-madeira.jpg);
-        background-attachment: fixed;
-    background-size: cover;
-    
-
+    background: url(../projeto-site/pacote-d013/imagens/fundo\ tecnologico.jpg);
+     background-attachment: fixed;
+    background-size: cover; 
 }
 html body{
     height: 100vh;
